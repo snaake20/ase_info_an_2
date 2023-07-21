@@ -1,0 +1,10 @@
+7,500,30,50.5,strada teilor 10,Focsani
+1,200,20,50.5,strada focilor 11,Bucuresti
+9,300,12,50.5,strada scriitorilor 9,Iasi
+2,500,10,50.5,strada teilor 10,Focsani
+10,500,60,50.5,strada teilor 10,Focsani
+3,100,30,50.5,strada pulii 4,Cluj Napoca
+6,200,67,50.5,strada focilor 11,Bucuresti
+5,500,90,50.5,strada teilor 10,Focsani
+4,900,45,50.5,strada pizdei 101,Targoviste
+8,700,29,50.5,strada americii 1,Bucuresti

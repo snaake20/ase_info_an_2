@@ -1,0 +1,5 @@
+1,Marfa,200
+2,Pasegeri,50
+3,Combustibil,1000
+4,Marfa,250
+5,Pasegeri,70

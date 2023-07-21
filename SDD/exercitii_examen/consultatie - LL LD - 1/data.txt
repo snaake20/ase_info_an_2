@@ -1,0 +1,5 @@
+20.05.2023,Mihai Stan,Pneumologie,Apa la plamani,150
+22.05.2023,Mihai Stan,Pneumologie,Apa la plamani,200
+22.05.2023,Mihai Gheorghe,Ortopedie,Ruptura de mana,169
+24.05.2023,Cosmin Stan,Radiologie,Fractura craniala,300
+25.05.2023,Mihai Gheorghe,Ortopedie,Umar dislocat,100

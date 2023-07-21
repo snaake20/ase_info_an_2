@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S05\Source.c(51,22): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S05\Source.c(51,18): warning C4024: 'memset': different types for formal and actual parameter 2
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S05\Source.c(119,57): warning C4333: '>>': right shift by too large amount, data loss
+  SDD_S05.vcxproj -> C:\Users\alexa\Facultate\II-2\SDD\SDD_S05\Debug\SDD_S05.exe

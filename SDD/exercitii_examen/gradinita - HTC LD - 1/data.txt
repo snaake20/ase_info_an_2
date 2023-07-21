@@ -1,0 +1,10 @@
+Gradinita1,Iasi,50,1
+Gradinita2,Focsani,30,0
+Gradinita3,Iasi,40,1
+Gradinita4,Focsani,20,0
+Gradinita5,Targoviste,60,1
+Gradinita6,Bucuresti,35,0
+Gradinita7,Focsani,45,1
+Gradinita8,Cluj Napoca,25,0
+Gradinita9,Brasov,55,1
+Gradinita10,Bucuresti,15,0

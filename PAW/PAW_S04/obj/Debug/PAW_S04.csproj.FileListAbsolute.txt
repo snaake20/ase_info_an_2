@@ -1,0 +1,12 @@
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\bin\Debug\PAW_S04.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\bin\Debug\PAW_S04.exe
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\bin\Debug\PAW_S04.pdb
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.exe
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.pdb
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.Form1.resources
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S04\obj\Debug\PAW_S04.Form2.resources

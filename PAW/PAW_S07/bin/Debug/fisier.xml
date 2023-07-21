@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CursValutar>
+  <DataCurs>2023-04-03</DataCurs>
+  <CursEUR atribut="EUR">4.9419</CursEUR>
+  <CursUSD atribut="USD">4.5539</CursUSD>
+  <CursGBP atribut="GBP">5.6215</CursGBP>
+  <CursXAU atribut="XAU">287.6190</CursXAU>
+</CursValutar>

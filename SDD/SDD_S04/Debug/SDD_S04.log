@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(59,21): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(59,17): warning C4024: 'memset': different types for formal and actual parameter 2
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(87,39): warning C4047: 'function': 'ListNode *' differs in levels of indirection from 'ListNode **'
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(87,21): warning C4024: 'insertNodeToHead': different types for formal and actual parameter 1
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(149,37): warning C4028: formal parameter 1 different from declaration
+C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Source.c(168,34): warning C4028: formal parameter 1 different from declaration
+  SDD_S04.vcxproj -> C:\Users\alexa\Facultate\II-2\SDD\SDD_S04\Debug\SDD_S04.exe

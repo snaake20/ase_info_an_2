@@ -1,0 +1,12 @@
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\bin\Debug\PregatireTest1.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\bin\Debug\PregatireTest1.exe
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\bin\Debug\PregatireTest1.pdb
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.exe
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.pdb
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.MeniuPrincipal.resources
+C:\Users\alexa\Facultate\II-2\PAW\PregatireTest1\obj\Debug\PregatireTest1.ModalMaterial.resources

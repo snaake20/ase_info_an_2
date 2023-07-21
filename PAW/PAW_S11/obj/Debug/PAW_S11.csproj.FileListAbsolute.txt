@@ -1,0 +1,11 @@
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\bin\Debug\PAW_S11.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\bin\Debug\PAW_S11.exe
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\bin\Debug\PAW_S11.pdb
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.Form1.resources
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.exe
+C:\Users\alexa\Facultate\II-2\PAW\PAW_S11\obj\Debug\PAW_S11.pdb

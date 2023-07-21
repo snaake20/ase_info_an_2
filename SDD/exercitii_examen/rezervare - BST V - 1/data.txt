@@ -1,0 +1,5 @@
+3,Transilvania,1,Ionut,15.3
+5,Anonim,6,Alex,17.3
+4,John Doe,6,Alex,25.69
+1,Transilvania,2,Alex,15.3
+2,John Doe,2,Ionut,20.1

@@ -1,0 +1,8 @@
+C:\Users\alexa\source\repos\PAW_S02\bin\Debug\PAW_S02.exe.config
+C:\Users\alexa\source\repos\PAW_S02\bin\Debug\PAW_S02.exe
+C:\Users\alexa\source\repos\PAW_S02\bin\Debug\PAW_S02.pdb
+C:\Users\alexa\source\repos\PAW_S02\obj\Debug\PAW_S02.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\PAW_S02\obj\Debug\PAW_S02.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\PAW_S02\obj\Debug\PAW_S02.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\PAW_S02\obj\Debug\PAW_S02.exe
+C:\Users\alexa\source\repos\PAW_S02\obj\Debug\PAW_S02.pdb

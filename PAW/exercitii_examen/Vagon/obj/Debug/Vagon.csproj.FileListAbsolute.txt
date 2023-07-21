@@ -1,0 +1,13 @@
+C:\Users\alexa\dev\Vagon\bin\Debug\Vagon.exe.config
+C:\Users\alexa\dev\Vagon\bin\Debug\Vagon.exe
+C:\Users\alexa\dev\Vagon\bin\Debug\Vagon.pdb
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.csproj.AssemblyReference.cache
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.Properties.Resources.resources
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.csproj.GenerateResource.cache
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.csproj.CoreCompileInputs.cache
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.exe
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.pdb
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.FormP.resources
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.FormS.resources
+C:\Users\alexa\dev\Vagon\obj\Debug\Vagon.Grafic.resources

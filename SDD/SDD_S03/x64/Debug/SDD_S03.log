@@ -1,0 +1,9 @@
+﻿  Source.c
+C:\Users\alexa\source\repos\SDD_S03\Source.c(47,38): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\alexa\source\repos\SDD_S03\Source.c(47,35): warning C4024: 'strtok': different types for formal and actual parameter 2
+C:\Users\alexa\source\repos\SDD_S03\Source.c(50,28): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\alexa\source\repos\SDD_S03\Source.c(50,25): warning C4024: 'strtok': different types for formal and actual parameter 2
+C:\Users\alexa\source\repos\SDD_S03\Source.c(53,29): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+C:\Users\alexa\source\repos\SDD_S03\Source.c(53,25): warning C4024: 'strtok': different types for formal and actual parameter 2
+C:\Users\alexa\source\repos\SDD_S03\Source.c(33,15): warning C4101: 'agenda': unreferenced local variable
+  SDD_S03.vcxproj -> C:\Users\alexa\source\repos\SDD_S03\x64\Debug\SDD_S03.exe

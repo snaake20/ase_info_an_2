@@ -1,0 +1,11 @@
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\bin\Debug\ParcAuto.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\bin\Debug\ParcAuto.exe
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\bin\Debug\ParcAuto.pdb
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.Form1.resources
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.exe
+C:\Users\alexa\Facultate\II-2\PAW\ParcAuto\obj\Debug\ParcAuto.pdb

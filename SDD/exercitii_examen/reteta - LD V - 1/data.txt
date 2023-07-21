@@ -1,0 +1,4 @@
+1;3;Xanax,Valium,THC;4,5,7;10.5,11,23.7;5,10,0;Eggman
+2;3;Xanax,Valium,THC;6,6,6;10.5,11,23.7;5,10,0;Eggman
+3;2;Xanax,THC;7,8;10.5,23.7;5,0;Eggman
+4;2;Xanax,THC;7,8;10.5,23.7;5,0;Stan

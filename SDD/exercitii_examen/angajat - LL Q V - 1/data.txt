@@ -1,0 +1,7 @@
+1,Alex,2500
+2,Liviu,3500
+1,Andrei,2000
+2,Cristian,2200
+3,Gabi,3000
+1,Sebastian,1600
+1,Razvan,2100

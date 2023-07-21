@@ -1,0 +1,14 @@
+Alex,1500,EUR
+Liviu,1500,EUR
+Gabi,2500,EUR
+Alex,1500,RON
+Alex,1500,RON
+Liviu,1500,RON
+Andrei,1000,EUR
+Gabi,1500,RON
+Andrei,1900,RON
+Cristian,2500,EUR
+Cristian,500,RON
+Alex,300,CHF
+Razvi,5000,RON
+Razvi,2500,RON

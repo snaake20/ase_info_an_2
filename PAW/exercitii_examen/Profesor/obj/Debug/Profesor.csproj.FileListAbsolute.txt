@@ -1,0 +1,11 @@
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\bin\Debug\Profesor.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\bin\Debug\Profesor.exe
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\bin\Debug\Profesor.pdb
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.FormP.resources
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.exe
+C:\Users\alexa\Facultate\II-2\PAW\Profesor\obj\Debug\Profesor.pdb

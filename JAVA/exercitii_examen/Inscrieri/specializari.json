@@ -1,0 +1,32 @@
+[
+   {
+      "numar_de_inmatriculari": 4,
+      "medie": 8.5275,
+      "cod_de_specializare": 1,
+      "nume": "Informatica Economica"
+   },
+   {
+      "numar_de_inmatriculari": 2,
+      "medie": 10,
+      "cod_de_specializare": 2,
+      "nume": "Cibernetica"
+   },
+   {
+      "numar_de_inmatriculari": 1,
+      "medie": 9.9,
+      "cod_de_specializare": 3,
+      "nume": "Statistica"
+   },
+   {
+      "numar_de_inmatriculari": 1,
+      "medie": 8.47,
+      "cod_de_specializare": 4,
+      "nume": "Marketing"
+   },
+   {
+      "numar_de_inmatriculari": 2,
+      "medie": 8.315,
+      "cod_de_specializare": 5,
+      "nume": "Contabilitate"
+   }
+]

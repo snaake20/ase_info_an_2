@@ -1,0 +1,8 @@
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\bin\Debug\GroupingCountSum.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\bin\Debug\GroupingCountSum.exe
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\bin\Debug\GroupingCountSum.pdb
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\obj\Debug\GroupingCountSum.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\obj\Debug\GroupingCountSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\obj\Debug\GroupingCountSum.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\obj\Debug\GroupingCountSum.exe
+C:\Users\alexa\Facultate\II-2\PAW\GroupingCountSum\obj\Debug\GroupingCountSum.pdb

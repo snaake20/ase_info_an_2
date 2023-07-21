@@ -1,0 +1,12 @@
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.AfisareComenzi.resources
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.FormP.resources
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\bin\Debug\Pizzeria.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\bin\Debug\Pizzeria.exe
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\bin\Debug\Pizzeria.pdb
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.exe
+C:\Users\alexa\Facultate\II-2\PAW\Pizzeria\obj\Debug\Pizzeria.pdb

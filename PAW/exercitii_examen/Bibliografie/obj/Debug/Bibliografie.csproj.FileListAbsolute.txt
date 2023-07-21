@@ -1,0 +1,12 @@
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\bin\Debug\Bibliografie.exe.config
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\bin\Debug\Bibliografie.exe
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\bin\Debug\Bibliografie.pdb
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.csproj.AssemblyReference.cache
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.AdaugaCarte.resources
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.FormP.resources
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.Properties.Resources.resources
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.csproj.GenerateResource.cache
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.exe
+C:\Users\alexa\Facultate\II-2\PAW\Bibliografie\obj\Debug\Bibliografie.pdb

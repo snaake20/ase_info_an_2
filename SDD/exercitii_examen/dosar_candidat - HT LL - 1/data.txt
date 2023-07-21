@@ -1,0 +1,6 @@
+5
+Liviu,Licenta,9.99,102
+Marcu,Master,8.99,179
+Andrei,Licenta,10,802
+Florin,Licenta,8.59,192
+Cosmin,Licenta,7.99,232
